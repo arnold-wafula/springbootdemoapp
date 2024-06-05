@@ -34,12 +34,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<dependency>
-			<groupId>org.springframework</groupId>
-    		<artifactId>spring-web</artifactId>
-    		<version>5.3.10</version> <!-- Check for the latest version -->
-		</dependency>
-
 	</dependencies>
 
 	<build>
